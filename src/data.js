@@ -13441,6 +13441,23 @@ module.exports = [
     ],
   },
   {
+    name: 'Poom',
+    description: 'Developer',
+    url: '',
+    emoji: '🤔',
+    country: '🇹🇭',
+    computer: 'mac',
+    phone: 'ios',
+    tags: [
+      'Python',
+      'JavaScript',
+      'Programmer',
+      'Full Stack',
+      'VS Code',
+      'Musician',
+    ],
+  },
+  {
     name: 'Luis Contreras',
     description: 'Detail-oriented and passionate Software Engineer.',
     url: 'https://luiscontreras.dev/uses',
